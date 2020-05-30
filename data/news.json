@@ -1,6 +1,21 @@
 {
     "newsItems": [
         {
+            "date": "2020\/5\/29",
+            "url": "https://twitter.com/ni_police_koho/status/1266251093882728448",
+            "text": "運転免許証更新業務について、令和２年６月１日（月）から全面的に再開します。"
+        },
+        {
+            "date": "2020\/5\/27",
+            "url": "https://twitter.com/Niigata_Bousai/status/1265585447981334528",
+            "text": "本日（27日）、第18回新潟県新型コロナウイルス感染症対策本部会議を開催しました。"
+        },
+        {
+            "date": "2020\/5\/27",
+            "url": "https://twitter.com/niigata_corona/status/1265482301900591105",
+            "text": "新潟市:飲食店を支援するクラウドファンディングが始まりました"
+        },
+        {
             "date": "2020\/5\/26",
             "url": "https://twitter.com/niigata_corona/status/1265164420180631553",
             "text": "新しい「新潟市経済社会再興本部」を立ち上げました"
