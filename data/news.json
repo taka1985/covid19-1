@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020\/6\/2",
+            "url": "https://twitter.com/Niigata_Press/status/1267612491623915520",
+            "text": "新型コロナウイルス感染症により影響を受けている中小企業者に対するセーフティネット保証4号の新潟県への指定が延長となります"
+        },
+        {
             "date": "2020\/6\/1",
             "url": "https://www.pref.niigata.lg.jp/site/doboku/covid19-0601torikumi.html",
             "text": "新型コロナウイルス感染症拡大防止に関する取り組みについて"
